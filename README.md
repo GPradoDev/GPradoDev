@@ -1,6 +1,6 @@
 ### Olá! Sou um Desenvolvedor em Formação 🚀
 
-Estudante do 3º Semestre de Análise e Desenvolvimento de Sistemas.
+Estudante do 2º Semestre de Ciências da Computação.
 Meu foco atual é transformar a base teórica de Engenharia de Software em código limpo e funcional, sempre prezando pela **Simplicidade** e **Lógica Estruturada**.
 
 **O que estou estudando agora:**
