@@ -5,7 +5,7 @@ Meu foco atual é transformar a base teórica de Engenharia de Software em códi
 
 **O que estou estudando agora:**
 - 🎓 **Faculdade:** Engenharia de Software, Modelagem de Sistemas e Arquitetura de Computadores, Análise Orientada a Objetos, Sistemas de Informação Gerencial.
-- 💻 **Prática:** JavaScript (Funções e Lógica), HTML5 e CSS3.
+- 💻 **Prática:** Java, SQL, Spring Boot.
 - 🎯 **Objetivo:** Estágio em Desenvolvimento (Foco em construir carreira sólida em TI).
 
 ---
