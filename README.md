@@ -14,7 +14,6 @@ Meu foco atual é transformar a base teórica de Engenharia de Software em códi
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-![Logic](https://img.shields.io/badge/Lógica-000000?style=flat&logo=algorithms&logoColor=white)
 
 ---
 
